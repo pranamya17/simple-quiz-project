@@ -16,6 +16,7 @@ Dynamic creation and removal of HTML elements
 The user interface is styled using CSS to ensure a clean, responsive, and visually appealing layout. The design adapts to different screen sizes, making it accessible across devices.
 
 📂 Project Structure
+
 quiz-app/
 │
 ├── index.html      
