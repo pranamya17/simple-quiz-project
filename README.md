@@ -18,9 +18,9 @@ The user interface is styled using CSS to ensure a clean, responsive, and visual
 📂 Project Structure
 quiz-app/
 │
-├── index.html      # Main HTML file
-├── style.css       # Styling file
-├── script.js       # JavaScript logic
-└── README.md       # Project documentation
+├── index.html      
+├── style.css       
+├── script.js       
+└── README.md       
 
 Overall, this quiz app serves as a great beginner-friendly project to understand how JavaScript interacts with HTML and CSS to build real-time, interactive web applications.
